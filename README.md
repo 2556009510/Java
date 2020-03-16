@@ -58,7 +58,7 @@
 <br>
 <br>
 <br>参考下面一部分：
-<br>![image](https://github.com/2556009510/Java/blob/master/%E5%9B%BE%E7%89%87/2%E8%BF%AD%E4%BB%A3%E5%99%A8.png)
+<br>![image]()
 <br>
 <br>
 <br>
