@@ -1,7 +1,6 @@
 
-【打卡第1天】Collection-Set接口与泛型
--------------------------------------------
-<br>                   哈希Set与树Set<br>
+## 【打卡第1天】Collection-Set接口与泛型
+<br>哈希Set与树Set
 <br>
 <br>1、迭代器：
 <br>Iterator： hasNext()、next()关键字
@@ -27,7 +26,7 @@
 <br>
 <br>
 <br>
-### 【打卡第2天】Map接口
+## 【打卡第2天】Map接口
 <br>哈希Map与树Map
 <br>
 <br>1、哈希Map：
