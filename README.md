@@ -63,6 +63,30 @@
 <br>
 <br>
 <br>
+<br>###【打卡第3天】
+<br>Collection接口与Coll...s工具类
+<br>Arrays工具类
+<br>
+<br>1、Arrays：工具类
+<br>集合→数组
+<br>数组→集合
+<br>
+<br>2、Collection与Coll…s 的区别：
+<br>Collection：集合接口
+<br>Coll…s：工具类（包内全是静态方法）
+<br>
+<br>3、集合与数组的比较：
+<br>(1)
+<br>      基本数据类型  对象   动态改变
+<br>数组   √            √      ×           
+<br>集合   ×            √      √    
+<br>
+<br>(2)
+<br>①数组: 无法知道元素个数，length只能告诉容量 
+<br>②集合: 用size()可以知道元素个数
+<br>
+<br>(3)
+<br>集合以类的形式存在，具有封装、继承、多态等一些类的特点
 <br>
 <br>
 <br>
@@ -73,3 +97,6 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+
