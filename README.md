@@ -21,7 +21,7 @@
 <br>3、泛型方法
 <br>4、泛型的上限(很少用)
 <br>5、泛型的下限(很少用)
-<br>https://github.com/2556009510/Java/blob/master/%E5%9B%BE%E7%89%87/2%E8%BF%AD%E4%BB%A3%E5%99%A8.png
+<br>
 <br>
 <br>
 <br>
@@ -58,7 +58,7 @@
 <br>
 <br>
 <br>参考下面一部分：
-<br>![image](https://github.com/AngelSXD/sxd_first_repository/blob/master/images/20160615165142.png)
+<br>![image](https://github.com/2556009510/Java/blob/master/%E5%9B%BE%E7%89%87/2%E8%BF%AD%E4%BB%A3%E5%99%A8.png)
 <br>
 <br>
 <br>
