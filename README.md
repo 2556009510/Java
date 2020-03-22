@@ -92,6 +92,51 @@
 <br>
 <br>
 <br>
+## 【打卡第4天】
+<br>1、File常用方法：
+<br>File f = new File("aaa.txt")
+<br>
+<br>boolean exists( )·················判断文件或目录是否存在
+<br>boolean isFile( ) ·················判断是否是文件
+<br>boolean isDirectory( ) ············判断是否是目录
+<br>String getPath( )···················相对路径
+<br>String getAbsolutePath( )··········绝对路径
+<br>String getName( ) ·················文件名称
+<br>boolean delete( )·······················删除
+<br>long length() ·····················返回文件长度(字节)，如果不存在返回OL
+<br>boolean createNewFile( )············空文件不能再创建文件夹
+<br>
+<br>创建文件
+<br>File f = File("aaa.txt");
+<br>f.createNewFile();（红灯二）
+<br>
+<br>判断文件属性
+<br>f.canExecute();
+<br>f.canRead();
+<br>f.canWrite();
+<br>
+<br>sys...(f.getAbsolutePath)；···········获取文件目录
+<br>sys···(f.getParent());················当前路径是否包含该文件
+<br>sys···(f.getCanonicalPath())；·········文件绝对路径
+<br>sys···(File.Separator);················获取文件的分割线
+<br>
+<br>String[] aa = f1.list();
+<br>for(String str:aa)
+<br>{sys···(aa.toSting(1);}·················该目录下所以文件地址
+<br>
+<br>File[] bb = f2.listFiles();
+<br>for(File ff:bb)
+<br>{sys···(ff);}···························该目录下所有文件
+<br>
+<br>File f3 = File.listRoots();
+<br>for(int i=0,i<f3.length;i++)
+<br>{sys···(f3[i]);}·························电脑所有盘
+<br>
+<br>File f4 = new File("C:/a");
+<br>f3.mkdir();································创建单级目录
+<br>
+<br>File f5 = new File("C:/a/b/c");
+<br>f5.mkdirs();·······························创建多级目录
 <br>
 <br>
 <br>
@@ -99,4 +144,68 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
