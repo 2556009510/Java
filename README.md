@@ -145,12 +145,6 @@
 <br>
 <br>flush()·····（当关掉水龙头后，将管道内剩下的水输到容器）
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>![image](https://github.com/2556009510/Java/blob/master/%E5%9B%BE%E7%89%87/3IO%E6%B5%81.png)
 <br>![image](https://github.com/2556009510/Java/blob/master/%E5%9B%BE%E7%89%87/4IO%E6%B5%81.png)
 <br>
