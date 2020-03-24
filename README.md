@@ -92,7 +92,7 @@
 <br>
 <br>
 <br>
-## 【打卡第4天】
+## 【打卡第4天】IO流
 <br>1、File常用方法：
 <br>File f = new File("aaa.txt")
 <br>
@@ -141,7 +141,9 @@
 <br>
 <br>
 <br>
+## 【打卡第5天】IO流
 <br>
+<br>flush()·····（当关掉水龙头后，将管道内剩下的水输到容器）
 <br>
 <br>
 <br>
